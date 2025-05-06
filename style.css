@@ -1,0 +1,50 @@
+.cen{
+    text-align: center;
+}
+
+
+.kitty {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    height: 50%;
+}
+
+.table{
+    border: 1px solid red;
+    color: red;
+    margin-bottom: 25px;
+}
+
+.table1{
+    border: 1px groove black;
+    
+}   
+
+
+.head{
+            border: 1px groove grey;
+            padding: 0.5rem;
+
+}
+
+.tab {
+    padding: 90px;
+    padding-bottom: 30px;
+    padding-top: 5px;
+}
+
+#lion{
+    text-align: center;
+    
+}
+
+.centerContent{
+    text-align: center;
+}
+
+.imageBorder{
+    border: 5px solid red;
+    width: 50vh;
+    height: 50vh;
+}
